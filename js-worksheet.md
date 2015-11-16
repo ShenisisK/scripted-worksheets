@@ -45,7 +45,7 @@ someFunction();
 }
 
 ####Some review
-* Close this HTML element (remember HTML??): `<h2> My Books` </h2>
-* What HTML element is used to create an **ordered list** of items? <ul>
+* Close this HTML element (remember HTML??): `<h2> My Books </h2>` 
+* What HTML element is used to create an **ordered list** of items? "<ul>"
 * Write a CSS rule that will make only the word *Adams* red: 
 `<span id="first">Washington </span><span id="second">Adams </span><span id="third>Jefferson</span>"`
